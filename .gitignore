@@ -2,8 +2,8 @@
 .vs/
 
 # Build
-bin/
-obj/
+Atividade2/bin/
+Atividade2/obj/
 
 # Arquivos de usuário
 *.user
